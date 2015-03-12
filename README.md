@@ -1,3 +1,1 @@
-Material-Design-Test-App
-========================
-This repository is the skeleton needed for implementing Material Design in Android Studio. It has a navigation drawer and up-affordance enabled on a sub-activity
+This repository is no LONGER ACTIVELY maintained, Check the new one here https://github.com/slidenerd/materialtest
